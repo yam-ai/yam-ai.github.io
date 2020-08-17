@@ -1,0 +1,14 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway');
+
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont: 'Raleway', sans-serif;
+
+body {
+  background-color: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+}
